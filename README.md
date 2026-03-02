@@ -103,7 +103,7 @@ print(qris.isCrcValid); // true or false
 | `taxType`       | ❌       | `'p'` for percentage, `'r'` for rupiah (default: `'p'`) |
 | `fee`           | ❌       | Fee amount (default: `'0'`)                             |
 | `withImage`     | ❌       | Generate PNG image (default: `false`)                   |
-| `templateImage` | ❌       | Template image bytes for overlay                        |
+| `templateImage` | ❌       | Template image bytes for overlay (Get template [here](https://github.com/rmaprojects/qris_dinamis/blob/e95291f540e6d9a0639e11106bf7d4be908033ec/assets/template.png))                        |
 | `qrSize`        | ❌       | QR code size in pixels (default: `400`)                 |
 | `qrMargin`      | ❌       | QR code margin in modules (default: `2`)                |
 
