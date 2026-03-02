@@ -2,9 +2,9 @@ name: qris_dinamis
 description: >-
   Convert static QRIS (Quick Response Code Indonesian Standard) to dynamic QRIS.
   Supports string output and image generation with template overlay.
-version: 1.0.0
-homepage: https://github.com/razisek/Qris-Dinamis
-repository: https://github.com/razisek/Qris-Dinamis
+version: 1.0.1
+homepage: https://github.com/rmaprojects/qris_dinamis
+repository: https://github.com/rmaprojects/qris_dinamis
 topics:
   - qris
   - payment

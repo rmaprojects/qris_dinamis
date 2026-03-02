@@ -1,3 +1,7 @@
+## 1.0.1
+
+- Update repository and homepage
+
 ## 1.0.0
 
 - Initial release
